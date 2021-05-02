@@ -6,6 +6,7 @@ def build():
     """
     layout = [[sg.Text('¿SOBRE QUÈ DATOS ANALIZAMOS ?')],
              [sg.Button('HBO', size=(50, 2), key="-HBO-")],
+             [sg.Button('STEAM', size=(50, 2), key="-steam-")],
              [sg.Button('Salir', size=(50, 2), key="-exit-")]]
 
     board = sg.Window('Menu de inicio').Layout(layout)

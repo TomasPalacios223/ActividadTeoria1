@@ -2,6 +2,7 @@ import PySimpleGUI as sg
 
 from windows import menu
 from component import opciones_HBO
+from component import opciones_steam
 
 def start():
     """
@@ -25,6 +26,6 @@ def loop():
             break
         if event== "-HBO-":
             opciones_HBO.start()
-        if event == "--":
-            pass
+        if event == "-steam-":
+            opciones_steam.start()
     return window

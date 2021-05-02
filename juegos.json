@@ -1,0 +1,496 @@
+{
+    "info_juegos": [
+        {
+            "-titulo del juego-": "The Elder Scrolls V Skyrim",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "273.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Fallout 4",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "87.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Spore",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "14.9",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Fallout New Vegas",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "12.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Left 4 Dead 2",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "8.9",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "HuniePop",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "8.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Path of Exile",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "8.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Poly Bridge",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "7.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Left 4 Dead",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "3.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Team Fortress 2",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "2.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Tomb Raider",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "2.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "The Banner Saga",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "2.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dead Island Epidemic",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "1.4",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "BioShock Infinite",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "1.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dragon Age Origins - Ultimate Edition",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "1.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Fallout 3 - Game of the Year Edition",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "SEGA Genesis & Mega Drive Classics",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Grand Theft Auto IV",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.6",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Realm of the Mad God",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Marvel Heroes 2015",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Eldevin",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dota 2",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "BioShock",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Robocraft",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.4",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Garry's Mod",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Jazzpunk",
+            "-id de usuario-": "151603712",
+            "-horas_de_juego-": "0.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dota 2",
+            "-id de usuario-": "187131847",
+            "-horas_de_juego-": "2.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Ultra Street Fighter IV",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "238.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "FINAL FANTASY XIII",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "84.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "The Elder Scrolls V Skyrim",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "58.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Sid Meier's Civilization V",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "22.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "L.A. Noire",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "13.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Company of Heroes Tales of Valor",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "10.2",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "7 Days to Die",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "7.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Divekick",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "7.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "FINAL FANTASY VII",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "5.2",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Orcs Must Die! 2",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "4.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Killing Floor",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "3.4",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Company of Heroes",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "3.2",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Bastion",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "2.8",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Undertale",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "2.6",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Counter-Strike Global Offensive",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "2.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Orcs Must Die!",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.7",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "THE KING OF FIGHTERS XIII STEAM EDITION",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.6",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "GUILTY GEAR XX ACCENT CORE PLUS R",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Skullgirls",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.4",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Assassin's Creed II",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Company of Heroes Opposing Fronts",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Team Fortress 2",
+            "-id de usuario-": "59945701",
+            "-horas_de_juego-": "0.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Grand Theft Auto V",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "86.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Insurgency",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "72.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Left 4 Dead 2",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "71.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "METAL GEAR SOLID V THE PHANTOM PAIN",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "59.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "S.T.A.L.K.E.R. Shadow of Chernobyl",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "54.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "S.T.A.L.K.E.R. Call of Pripyat",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "50.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Saints Row The Third",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "35.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Far Cry 3",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "35.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "S.T.A.L.K.E.R. Clear Sky",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "35.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Rocket League",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "34.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Assassin's Creed II",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "33.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Far Cry 4",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "32.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Prototype",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "25.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Space Pirates and Zombies",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "24.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dying Light",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "23.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Just Cause 2",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "23.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Mirror's Edge",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "23.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Mad Max",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "22.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Portal 2",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "21.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Deus Ex Human Revolution",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "21.0",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Middle-earth Shadow of Mordor",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "19.6",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "RUNNING WITH RIFLES",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "18.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Deus Ex Human Revolution - Director's Cut",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "18.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Batman Arkham City GOTY",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "16.9",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Tropico 4",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "14.3",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Cave Story+",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "13.7",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Dust An Elysian Tail",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "13.4",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "F.E.A.R.",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "12.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "South Park The Stick of Truth",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "12.2",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Sleeping Dogs",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "11.5",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Watch_Dogs",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "11.2",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "Saints Row IV",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "11.1",
+            "tipo_de_juego": "play"
+        },
+        {
+            "-titulo del juego-": "DayZ",
+            "-id de usuario-": "53875128",
+            "-horas_de_juego-": "11.0",
+            "tipo_de_juego": "play"
+        }
+    ]
+}
