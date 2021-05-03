@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 from windows import opciones_steam
+from component import steam_mas_jugados
 from component import tipo_juegos
 def start():
     """
@@ -23,5 +24,7 @@ def loop():
             break
         if event=="-type-":
             tipo_juegos.start()
-    
+        if event== "-mas_jugados-":
+            steam_mas_jugados.start()
+
     return window

@@ -16,7 +16,7 @@ def write_json(data, filename='/home/alumno/Documentos/entregas/teoria/juegos.js
 
 def loop():
     """
-    Loop de la ventana que buscará segun el año ingresado y escribirá en el archivo jSon
+    Loop de la ventana que buscará segun el tipo de juego(gratis o pagos) y escribirá en el archivo jSon
     """
 
     window =tipo_juegos.build()
